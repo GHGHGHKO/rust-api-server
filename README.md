@@ -1,8 +1,8 @@
 # rust-api-server
 
-##How to build
+## How to build
 
-##How to deploy
+## How to deploy
 
 
 ### references
